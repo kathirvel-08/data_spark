@@ -1,5 +1,8 @@
 # Global Electronics Data Analytics Project
 
+![DASHBOARD](https://github.com/kathirvel-08/data_spark/blob/main/Global_dashboard.png)
+![DASHBOARD](https://github.com/kathirvel-08/data_spark/blob/main/Global_profit_dashboard.png)
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Business Use Cases](#business-use-cases)
@@ -83,6 +86,3 @@ Interactive visualizations were created in Power BI/Tableau to showcase the insi
 - Customer demographics and purchase patterns.
 - Product and store performance.
 - Regional sales distribution and currency impact on sales.
-
-![DASHBOARD](https://github.com/kathirvel-08/data_spark/blob/main/Global_dashboard.png)
-![DASHBOARD](https://github.com/kathirvel-08/data_spark/blob/main/Global_sales_dashboard.png)
