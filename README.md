@@ -83,3 +83,6 @@ Interactive visualizations were created in Power BI/Tableau to showcase the insi
 - Customer demographics and purchase patterns.
 - Product and store performance.
 - Regional sales distribution and currency impact on sales.
+
+![DASHBOARD](https://github.com/kathirvel-08/data_spark/blob/main/Global_dashboard.png)
+![DASHBOARD](https://github.com/kathirvel-08/data_spark/blob/main/Global_sales_dashboard.png)
